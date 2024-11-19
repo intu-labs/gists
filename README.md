@@ -1,10 +1,7 @@
 ## Intu Cosigner Gists Collection 🌟  
 
-Welcome to our community-driven collection of useful code snippets and gists! This repository serves as a curated list of helpful code snippets that developers use in their daily work
-
-
-### Overview
-This repository aims to make gists more discoverable and useful for everyone. Instead of letting helpful code snippets get lost in the vast sea of GitHub, we're creating a centralized place to find and share the best ones
+Welcome to our community-driven collection of useful code snippets and gists!  
+The purpose of these are to extend the functionality of your INTU co-signer so that you can extend functionality, include security checks, and personalize your signer for your business needs.
 
 ### Usage
 Each gist in this collection includes:
